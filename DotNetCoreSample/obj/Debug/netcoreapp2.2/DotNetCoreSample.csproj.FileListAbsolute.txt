@@ -1,0 +1,15 @@
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\DotNetCoreSample.deps.json
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\DotNetCoreSample.runtimeconfig.json
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\DotNetCoreSample.runtimeconfig.dev.json
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\DotNetCoreSample.dll
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\bin\Debug\netcoreapp2.2\DotNetCoreSample.pdb
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\obj\Debug\netcoreapp2.2\DotNetCoreSample.csprojAssemblyReference.cache
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\obj\Debug\netcoreapp2.2\DotNetCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\obj\Debug\netcoreapp2.2\DotNetCoreSample.AssemblyInfoInputs.cache
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\obj\Debug\netcoreapp2.2\DotNetCoreSample.AssemblyInfo.cs
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\obj\Debug\netcoreapp2.2\DotNetCoreSample.dll
+C:\Users\Experion\source\repos\DotNetCoreSample\DotNetCoreSample\obj\Debug\netcoreapp2.2\DotNetCoreSample.pdb
